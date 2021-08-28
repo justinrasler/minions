@@ -45,5 +45,4 @@ console.log(actuallyCapitalizedMinions)
 
 consteveryCapMin = actuallyCapitalizedMinions.every((item, index) => {return item.toLocaleUpperCase()})
 
-console.log(everyCapMin)
 
